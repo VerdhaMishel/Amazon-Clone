@@ -1,3 +1,3 @@
 # Amazon-Clone
 Amazon Landing page clone with CSS
-- Verdha Misel
+Verdha Misel
